@@ -1,0 +1,1 @@
+The following is a project provided by the Odin Project to create a landing page. In this project I will learn how to create a landing page that can help me on later pursuit in this profession of Web Development.
