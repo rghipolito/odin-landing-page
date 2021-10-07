@@ -144,6 +144,7 @@ footer {
 .four-images {
     display: flex;
     justify-content: space-around;
+    padding: 50px;
 }
 
 .block {
@@ -155,6 +156,7 @@ footer {
 
 .text {
     text-align: center;
+    padding: 0 30px;
 }
 
 .call-to-action {
